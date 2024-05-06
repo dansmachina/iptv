@@ -1,6 +1,6 @@
 export const ROOT_DIR = process.env.ROOT_DIR || './'
 export const STREAMS_DIR = process.env.STREAMS_DIR || './streams'
-export const PUBLIC_DIR = process.env.PUBLIC_DIR || './.gh-pages'
+export const PUBLIC_DIR = process.env.PUBLIC_DIR || './docs'
 export const README_DIR = process.env.README_DIR || './.readme'
 export const API_DIR = process.env.API_DIR || './.api'
 export const DATA_DIR = process.env.DATA_DIR || './temp/data'
