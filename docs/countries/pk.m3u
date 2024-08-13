@@ -21,7 +21,7 @@ http://124.109.47.101/hls/stream1.m3u8
 #EXTINF:-1 tvg-id="AwazTVNetwork.pk" tvg-logo="https://i.imgur.com/FiUzzqb.png" group-title="Entertainment",Awaz TV (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCd0sEeyvD_K9YYw0yPTKDhw.m3u8
 #EXTINF:-1 tvg-id="BBCNewsAsiaPacific.uk" tvg-logo="https://i.imgur.com/REuN9RR.png" group-title="News",BBC News Asia Pacific (720p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 tvg-id="BBCNewsSouthAsia.uk" tvg-logo="https://i.imgur.com/REuN9RR.png" group-title="News",BBC World News South Asia
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-id="BloombergTVAsia.hk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Asia (720p)
@@ -38,8 +38,6 @@ https://ythls.armelin.one/channel/UC6UW8OOQQBGdwmnaYLh-qdw.m3u8
 https://ythls.armelin.one/channel/UCdTup4kK7Ze08KYp7ReiuMw.m3u8
 #EXTINF:-1 tvg-id="CityNewsHD.pk" tvg-logo="https://i.imgur.com/GtYG9lG.png" group-title="News",City News HD (1080p)
 http://cdn.citymediagroupreg.com:1935/citynewshd/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="CNNPakistan.pk" tvg-logo="https://i.imgur.com/84IfVaf.jpg" group-title="News",CNN Pakistan
-https://ahmhost.live/stream/hls/cnnpakistantv/index.m3u8
 #EXTINF:-1 tvg-id="DawnNews.pk" tvg-logo="https://i.imgur.com/BMmlLwS.png" group-title="News",Dawn News (720p)
 https://ythls.armelin.one/channel/UCaxR-D8FjZ-2otbU0_Y2grg.m3u8
 #EXTINF:-1 tvg-id="DiscoverPakistan.pk" tvg-logo="https://i.imgur.com/IJH47fJ.png" group-title="Undefined",Discover Pakistan (1080p)
@@ -120,6 +118,8 @@ https://ythls.armelin.one/channel/UCKMXh66UdpueUyQLQIqZSyg.m3u8
 https://ythls.armelin.one/channel/UCMfwlaPLGMn44BKvHv15yzA.m3u8
 #EXTINF:-1 tvg-id="PTVNews.pk" tvg-logo="https://i.imgur.com/Fpn8VU7.png" group-title="News",PTV News (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UC5RvV_LtR1dxPCVFGw6dxXA.m3u8
+#EXTINF:-1 tvg-id="PTVSports.pk" tvg-logo="https://i.imgur.com/CPm6GHA.png" group-title="Sports",PTV Sports
+http://121.91.61.106:8000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-id="PTVGlobal.pk" tvg-logo="https://i.imgur.com/CWFI3wg.png" group-title="Undefined",PTV World (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCj-e7yp2_-qE-TPritppZGQ.m3u8
 #EXTINF:-1 tvg-id="PublicNews.pk" tvg-logo="https://i.imgur.com/q3ij8wO.png" group-title="News",Public News (720p) [Not 24/7]
@@ -140,10 +140,14 @@ https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
 https://ythls.armelin.one/channel/UCyNUtOyKbLZaOgy3rhe_3lQ.m3u8
 #EXTINF:-1 tvg-id="SunoNewsHD.pk" tvg-logo="https://i.imgur.com/FeSntVO.jpg" group-title="News",Suno News HD (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCB82Zom1MYh8VV4q7wXkfGA.m3u8
+#EXTINF:-1 tvg-id="TenSportsPakistan.pk" tvg-logo="https://i.imgur.com/nnqpYNm.png" group-title="Sports",Ten Sports Pakistan
+http://121.91.61.106:8000/play/a04h/index.m3u8
 #EXTINF:-1 tvg-id="TimeNews.pk" tvg-logo="https://i.imgur.com/iw0H5mA.png" group-title="News",Time News (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCnXxxqVgw9ttLiozpVPjHuw.m3u8
 #EXTINF:-1 tvg-id="TV5MondePacific.fr" tvg-logo="https://i.imgur.com/mfZOYZI.png" group-title="Undefined",TV5Monde Pacifique (1080p) [Geo-blocked]
 https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
+#EXTINF:-1 tvg-id="TVEInternacionalEuropeAsia.es" tvg-logo="https://i.imgur.com/ow1HArj.png" group-title="Undefined",TVE Internacional Europe-Asia [Geo-blocked]
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
 #EXTINF:-1 tvg-id="VenusHD.pk" tvg-logo="https://i.imgur.com/0C9KunR.png" group-title="Undefined",Venus HD (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCau2UiIsh9Ak34pgrqm3J0w.m3u8
 #EXTINF:-1 tvg-id="VoiceNews.pk" tvg-logo="https://i.imgur.com/rlYzN6J.png" group-title="News",Voice News (720p)

@@ -3,8 +3,6 @@
 https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="ABPMajha.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/ABP_Majha_logo.svg/512px-ABP_Majha_logo.svg.png" group-title="News",ABP Majha (720p)
 https://abplivetv.akamaized.net/hls/live/2043011/manjha/master.m3u8
-#EXTINF:-1 tvg-id="ColorsMarathi.in" tvg-logo="https://i.imgur.com/q43P31H.png" group-title="Undefined",Colors Marathi (1080p)
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Marathi_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="DDSahyadri.in" tvg-logo="https://i.imgur.com/svjI6U6.png" group-title="Undefined",DD Sahyadri (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UC-bdz-5EeUPT7lp7oSg4D5w.m3u8
 #EXTINF:-1 tvg-id="FaktMarathi.in" tvg-logo="https://i.imgur.com/y0VS4QN.png" group-title="Entertainment",Fakt Marathi (576p) [Not 24/7]
@@ -22,16 +20,14 @@ https://ythls.armelin.one/channel/UCrcpw88HvKJ0skdsHniCJtQ.m3u8
 #EXTINF:-1 tvg-id="SaamTV.in" tvg-logo="https://i.imgur.com/SNsjJjt.png" group-title="Undefined",Saam TV (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UC6cxTsUnfSZrj96KNHhRTHQ.m3u8
 #EXTINF:-1 tvg-id="ShemarooMarathiBana.in" tvg-logo="https://i.imgur.com/U63jUUq.png" group-title="Undefined",Shemaroo Marathi Bana
-https://shemaroo.codeautoplay.workers.dev/?codeby=nd&channel=shemaroomarathibana
+https://shemaroo.codeautoplay.workers.dev/?channel=shemaroomarathibana&codeby=nd
 #EXTINF:-1 tvg-id="SonyMarathi.in" tvg-logo="https://i.imgur.com/uiDnvqt.png" group-title="Undefined",Sony Marathi (1080p)
 https://dai.google.com/linear/hls/event/I2phC6tgTDuJngxw9gJgPw/master.m3u8
-#EXTINF:-1 tvg-id="SonyYay.in" tvg-logo="https://i.imgur.com/MhlO1dB.png" group-title="Undefined",Sony Yay! (1080p)
-https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
 #EXTINF:-1 tvg-id="SunMarathi.in" tvg-logo="https://i.imgur.com/uUJz1tC.png" group-title="Undefined",Sun Marathi
-https://other.codeautoplaycdn1.workers.dev/?codeby=nd&channel=sunmarathi
+https://other.codeautoplaycdn1.workers.dev/?channel=sunmarathi&codeby=nd
 #EXTINF:-1 tvg-id="TV9Marathi.in" tvg-logo="https://i.imgur.com/5AshBho.png" group-title="Undefined",TV9 Marathi (720p)
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="Zee24Taas.in" tvg-logo="https://i.imgur.com/KVDGQI1.png" group-title="Undefined",Zee 24 Taas
-https://news.codeautoplay.workers.dev/?codeby=nd&channel=zee24taas
+https://news.codeautoplay.workers.dev/?channel=zee24taas&codeby=nd
 #EXTINF:-1 tvg-id="ZeeMarathi.in" tvg-logo="https://i.imgur.com/vv9ysD3.png" group-title="Undefined",Zee Marathi (720p)
 https://d3vy3je10jkn7h.cloudfront.net/out/v1/f610383ba97c47e3b04d2e1593ff8549/index_4.m3u8

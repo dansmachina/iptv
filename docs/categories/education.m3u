@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1KZNTV.za" tvg-logo="https://i.imgur.com/5f7Al3e.png" group-title="Education",1KZN TV (576p)
+https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="2STV.sn" tvg-logo="https://i.imgur.com/WByVBZf.png" group-title="Education",2S TV (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCeLEGbj240J6JhpP7ba8GwA.m3u8
 #EXTINF:-1 tvg-id="A2iNaija.sn" tvg-logo="https://i.imgur.com/yq7ghPE.jpg" group-title="Education",A2i Naija (720p) [Not 24/7]
@@ -7,7 +9,7 @@ https://stream.sen-gt.com/A2iNaija/myStream/playlist.m3u8
 https://c.mjh.nz/abc-me.m3u8
 #EXTINF:-1 tvg-id="AgroTV.tr" tvg-logo="https://i.imgur.com/ls9NLa4.png" group-title="Education;Outdoor",Agro TV (1080p)
 https://yayin30.haber100.com/live/agrotv/playlist.m3u8
-#EXTINF:-1 tvg-id="AlBinaaTV.id" tvg-logo="https://i.imgur.com/MTR4GuF.png" group-title="Education",Al Binaa TV (720p)
+#EXTINF:-1 tvg-id="AlBinaaTV.id" tvg-logo="https://i.imgur.com/MTR4GuF.png" group-title="Education",Al Binaa TV (720p) [Not 24/7]
 https://master.antosatriani.workers.dev/channel/UCdq-DJ5MS7qjd1aXPFg71Yg.m3u8
 #EXTINF:-1 tvg-id="AlQudsOpenUniversity.ps" tvg-logo="https://i.imgur.com/AHzY3Wn.png" group-title="Education",Al Quds Open University (1080p)
 https://streaming2.qou.edu/hls/stream.m3u8
@@ -16,7 +18,7 @@ https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ALTV.th" tvg-logo="https://i.imgur.com/MCbCSWv.png" group-title="Education",ALTV (1080p)
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1 tvg-id="AngerManagementChannel.us" tvg-logo="https://i.imgur.com/VXZgrNy.png" group-title="Education",Anger Management Channel (720p)
-https://lnc-anger-management.tubi.video/playlist.m3u8
+https://lnc-anger-management2.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="ArchitecturalDigest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Architectural_Digest_logo.svg/512px-Architectural_Digest_logo.svg.png" group-title="Education",Architectural Digest (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxarchitecturaldigest/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="ARDalpha.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/512px-ARD_alpha.svg.png" group-title="Education",ARD-alpha (720p)
@@ -66,8 +68,6 @@ https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="Educanal.py" tvg-logo="https://i.imgur.com/857OkFf.png" group-title="Education",Educanal (720p) [Not 24/7]
 https://59ce1298bfb98.streamlock.net/educanal/educanal/playlist.m3u8
-#EXTINF:-1 tvg-id="EducationChannel.mm" tvg-logo="https://i.imgur.com/p5TGUjo.png" group-title="Education",Education Channel (480p)
-http://183.89.246.119:8881/play/a07s/index.m3u8
 #EXTINF:-1 tvg-id="EducaTV.ec" tvg-logo="https://i.imgur.com/lY9Bx2u.png" group-title="Education",EducaTV (720p) [Not 24/7]
 https://vid2.ecuamedia.net/educatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Eduvision.co" tvg-logo="https://i.imgur.com/ppBdqel.png" group-title="Education",Eduvision (1080p)
@@ -150,8 +150,6 @@ https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
 https://livestream.pbskids.org/out/v1/2963202df0c142c69b5254a546473308/akst.m3u8
 #EXTINF:-1 tvg-id="PBSKidsEasternCentral.us" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Education;Kids",PBS Kids Eastern/Central (720p)
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1 tvg-id="PBSKidsHawaii.us" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Education;Kids",PBS Kids Hawaii (1080p)
-https://livestream.pbskids.org/out/v1/19d1d62bf61b4aea9ec20f83b6450a4e/hast.m3u8
 #EXTINF:-1 tvg-id="PBSKidsMountain.us" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Education;Kids",PBS Kids Mountain (1080p)
 https://livestream.pbskids.org/out/v1/00a3b9014fa54c40bee6ca68a104a8a4/mst.m3u8
 #EXTINF:-1 tvg-id="PBSKidsPacific.us" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Education;Kids",PBS Kids Pacific (1080p)
@@ -230,7 +228,7 @@ https://cloud.odysee.live/content/fed20cff907550b0c7d83991fb3630e2a9f90454/maste
 #EXTINF:-1 tvg-id="VyasChannel.in" tvg-logo="https://i.ibb.co/WVyjqrX/in-vyas-channel-5512.jpg" group-title="Education",Vyas NIC (576p)
 https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8
 #EXTINF:-1 tvg-id="WikiTV.kh" tvg-logo="https://i.imgur.com/rnV0Ui1.png" group-title="Education",WIKI TV (720p)
-http://206.189.93.160:1935/live/myStream_720p/playlist.m3u8
+https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="WomanTV.tr" tvg-logo="https://i.imgur.com/f2zGoV3.png" group-title="Culture;Education;Lifestyle",Woman TV (1080p)
 https://embedlp.becdn.net/womantv.m3u8
 #EXTINF:-1 tvg-id="WorldChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/PBSworld.png" group-title="Education",World Channel (1080p)

@@ -1,10 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="APlus.mx" tvg-logo="https://i.imgur.com/TWk9gfd.png" group-title="Culture",A+ (480p) [Geo-blocked]
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:-1 tvg-id="APlusIvoire.ci" tvg-logo="https://i.imgur.com/yOW0vyP.png" group-title="Culture",A+ Ivoire (720p)
+http://69.64.57.208/atv/playlist.m3u8
 #EXTINF:-1 tvg-id="AbaiTV.kz" tvg-logo="https://i.imgur.com/Nw2R7Dq.png" group-title="Culture",Abai TV (720p)
 https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
 #EXTINF:-1 tvg-id="AMP2.us" tvg-logo="https://i.imgur.com/nfur3FR.png" group-title="Culture",Access Media Productions Community Channel (720p)
 https://livestream.telvue.com/ampmedia2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="AfrocultureTV.ci" tvg-logo="https://i.imgur.com/bjaZ3kO.png" group-title="Culture",Afroculture TV (1080p)
+https://helga.iptv2022.com/sh/Afroculture/index.m3u8
 #EXTINF:-1 tvg-id="AlKhadimiyyahTV.sn" tvg-logo="https://i.imgur.com/xMYkX8d.jpg" group-title="Culture;Religious",Al Khadimiyyah TV (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCqbQTS505CVDNNmPI0KwoYA.m3u8
 #EXTINF:-1 tvg-id="AlternaTV.ar" tvg-logo="https://alternatv.ar/alternatv.png" group-title="Culture;Documentary;Entertainment;General;Movies;Music",AlternaTV (720p)
@@ -14,9 +16,10 @@ https://goccn.cloud/hls/amanitv/index.m3u8
 #EXTINF:-1 tvg-id="apartTV.lu" tvg-logo="https://i.imgur.com/IBcMIcZ.png" group-title="Business;Culture;Lifestyle",apart TV (1080p)
 https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8
 #EXTINF:-1 tvg-id="ART.gr" tvg-logo="https://i.imgur.com/mNeLu04.png" group-title="Culture",APT (1080p)
-https://live-4gf18j5s.rmbl.ws/slot-56/5x3r-6ido_1080p/chunklist.m3u8
+https://hugh.cdn.rumble.cloud/live/k5e12sb4/slot-82/fdd0-tbln/chunklist_DVR.m3u8
 #EXTINF:-1 tvg-id="Athaqafia.ma" tvg-logo="https://i.imgur.com/mrwFI2L.png" group-title="Culture",Arrabiaa (360p)
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa.m3u8
+#EXTVLCOPT:http-referrer=https://snrtlive.ma/
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-id="AsiriTV.pe" tvg-logo="https://i.imgur.com/7bGVFBa.png" group-title="Culture",AsiriTV (720p) [Not 24/7]
 https://video2.lhdserver.es/asiritv/live.m3u8
 #EXTINF:-1 tvg-id="ATR.ua" tvg-logo="https://i.imgur.com/lRJAXC7.png" group-title="Culture" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0",ATR (720p)
@@ -89,8 +92,6 @@ https://pistream.ddns.net/hls/stream.m3u8
 https://rpn3.bozztv.com/ssh101/ssh101/imaitv/playlist.m3u8
 #EXTINF:-1 tvg-id="IshushoTV.rw" tvg-logo="https://i.ibb.co/BjpLqbN/ISHUSHO-TV-LOGO-orange.png" group-title="Culture;Sports",Ishusho TV (720p) [Not 24/7]
 https://tv.livebcm.com:3425/stream/play.m3u8
-#EXTINF:-1 tvg-id="JhankarTV.ca" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/05/Jhankartv.jpg" group-title="Culture",Jhankar TV (720p) [Not 24/7]
-https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jhankartv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="KweliTV.us" tvg-logo="https://i.imgur.com/LXMlbda.png" group-title="Culture",Kweli TV (1080p)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2129
 #EXTINF:-1 tvg-id="LiceumTV.hu" tvg-logo="https://i.imgur.com/Hf122ZD.png" group-title="Culture;Education",Liceum TV (576p)
@@ -112,8 +113,6 @@ https://5c2974786200d.streamlock.net/live-chan30/ngrp:ch30_all/playlist.m3u8
 https://5c2974786200d.streamlock.net/live-chan75/ngrp:ch75_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Miras.tm" tvg-logo="https://i.imgur.com/pWbJzr9.png" group-title="Culture",Miras (406p) [Not 24/7]
 https://alpha.tv.online.tm/hls/ch003.m3u8
-#EXTINF:-1 tvg-id="MRTVNRC.mm" tvg-logo="https://i.imgur.com/5aLFslk.jpg" group-title="Culture",MRTV NRC (480p)
-http://183.89.246.119:8881/play/a07o/index.m3u8
 #EXTINF:-1 tvg-id="MuseumTVFrench.fr" tvg-logo="https://i.imgur.com/WbjURLo.png" group-title="Culture",Museum TV
 https://live2.creacast.com/museum-france/smil:museum-france.smil/master.m3u8
 #EXTINF:-1 tvg-id="MuseumTVFast.us" tvg-logo="https://i.imgur.com/zzVq7BQ.png" group-title="Culture",Museum TV Fast
@@ -194,8 +193,10 @@ https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8
 https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGCultural.es" tvg-logo="https://i.imgur.com/dvkzH8n.png" group-title="Culture",TVG Cultural (720p)
 https://cultural-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRCultural.ro" tvg-logo="https://i.imgur.com/U9i70C9.png" group-title="Culture",TVR Cultural (720p)
-https://mn-nl.mncdn.com/tvr_cultural/tvrcultural/index.m3u8
+#EXTINF:-1 tvg-id="TVRCultural.ro" tvg-logo="https://i.imgur.com/U9i70C9.png" group-title="Culture" user-agent="Mozilla/5.0 (Windows NT 10.0; rv:126.0) Gecko/20100101 Firefox/126.0",TVR Cultural (1080p) [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://www.tvrplus.ro/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; rv:126.0) Gecko/20100101 Firefox/126.0
+https://tvr-tvrcultural.cdn.zitec.com/live/tvrcultural/main.m3u8
 #EXTINF:-1 tvg-id="U24Television.ug" tvg-logo="https://i.imgur.com/bhDinx7.jpg" group-title="Culture",U24 Television (480p) [Not 24/7]
 https://cdn1.rea.cdn.moderntv.eu/readymedia/stream/U24/5-20-hls/live.m3u8
 #EXTINF:-1 tvg-id="UChileTV.cl" tvg-logo="https://i.ibb.co/dGpwrLX/UChile-TV-logo-2020.png" group-title="Culture;Education",UChile TV (720p)

@@ -60,6 +60,9 @@ https://bledflix-echorouk-news.b-cdn.net/master.m3u8
 https://echorouk-live-tv.dzsecurity.net/fullres/EchoroukTV_First/playlist.m3u8
 #EXTINF:-1 tvg-id="ElBilad.dz" tvg-logo="https://i.imgur.com/khppaWF.png" group-title="Undefined",El Bilad (576p) [Not 24/7]
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/elbilad.m3u8
+#EXTINF:-1 tvg-id="ElwataniaTV.dz" tvg-logo="" group-title="Undefined",Elwatania TV (720p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://player.castr.com/live_1b36cfb0ba2411ee9700956e0f7084c8
+https://stream.castr.com/62c18c3f14d09a0b7e5355a5/live_1b36cfb0ba2411ee9700956e0f7084c8/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="EnnaharTV.dz" tvg-logo="https://i.imgur.com/C0TCA1s.png" group-title="News",Ennahar TV (576p) [Not 24/7] [Geo-blocked]
 #EXTVLCOPT:http-referrer=https://ennahar.dzsecurity.net
 https://ennahar-live.dzsecurity.net/fullres/EnnaharTV_First/playlist.m3u8
@@ -114,7 +117,7 @@ https://tbn-jw.cdn.vustreams.com/live/tbn-africa/live.isml/cc850928-d0d8-4336-84
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TRTArabi.tr" tvg-logo="https://i.imgur.com/dEfI2M9.png" group-title="News",TRT Arabi (1080p) [Not 24/7]
-https://tv-trtarabi.live.trt.com.tr/master.m3u8
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TV5MondeMaghrebOrient.fr" tvg-logo="https://i.imgur.com/tqz4M37.png" group-title="General",TV5Monde Maghreb-Orient (1080p) [Geo-blocked]
 https://ott.tv5monde.com/Content/HLS/Live/channel(orient)/variant.m3u8
 #EXTINF:-1 tvg-id="TVIAfrica.pt" tvg-logo="https://i.ibb.co/vBbSHB4/Tvi-africa.png" group-title="General",TVI África (480p) [Geo-blocked]

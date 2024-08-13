@@ -33,8 +33,6 @@ https://ythls.armelin.one/channel/UC6UW8OOQQBGdwmnaYLh-qdw.m3u8
 https://ythls.armelin.one/channel/UCdTup4kK7Ze08KYp7ReiuMw.m3u8
 #EXTINF:-1 tvg-id="CityNewsHD.pk" tvg-logo="https://i.imgur.com/GtYG9lG.png" group-title="News",City News HD (1080p)
 http://cdn.citymediagroupreg.com:1935/citynewshd/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="CNNPakistan.pk" tvg-logo="https://i.imgur.com/84IfVaf.jpg" group-title="News",CNN Pakistan
-https://ahmhost.live/stream/hls/cnnpakistantv/index.m3u8
 #EXTINF:-1 tvg-id="DawnNews.pk" tvg-logo="https://i.imgur.com/BMmlLwS.png" group-title="News",Dawn News (720p)
 https://ythls.armelin.one/channel/UCaxR-D8FjZ-2otbU0_Y2grg.m3u8
 #EXTINF:-1 tvg-id="DDUrdu.in" tvg-logo="https://i.imgur.com/OiQPS34.png" group-title="Undefined",DD Urdu (720p) [Not 24/7]
@@ -107,6 +105,8 @@ https://ythls.armelin.one/channel/UCKMXh66UdpueUyQLQIqZSyg.m3u8
 https://ythls.armelin.one/channel/UCMfwlaPLGMn44BKvHv15yzA.m3u8
 #EXTINF:-1 tvg-id="PTVNews.pk" tvg-logo="https://i.imgur.com/Fpn8VU7.png" group-title="News",PTV News (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UC5RvV_LtR1dxPCVFGw6dxXA.m3u8
+#EXTINF:-1 tvg-id="PTVSports.pk" tvg-logo="https://i.imgur.com/CPm6GHA.png" group-title="Sports",PTV Sports
+http://121.91.61.106:8000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-id="PTVGlobal.pk" tvg-logo="https://i.imgur.com/CWFI3wg.png" group-title="Undefined",PTV World (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCj-e7yp2_-qE-TPritppZGQ.m3u8
 #EXTINF:-1 tvg-id="SamaaTV.pk" tvg-logo="https://i.imgur.com/r3U4A1P.png" group-title="Undefined",Samaa TV (720p) [Not 24/7]

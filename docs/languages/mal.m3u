@@ -117,8 +117,6 @@ https://api.new.livestream.com/accounts/25038049/events/7483919/live.m3u8
 https://livestreamcdn.net:444/ShalomTV/ShalomTV/playlist.m3u8
 #EXTINF:-1 tvg-id="ShekinahTV.in" tvg-logo="https://i.imgur.com/6hTshsG.png" group-title="Undefined",Shekinah TV (1080p)
 https://ythls.armelin.one/channel/UCHtYUfPnQci6GoUpPlWfrOg.m3u8
-#EXTINF:-1 tvg-id="SonyYay.in" tvg-logo="https://i.imgur.com/MhlO1dB.png" group-title="Undefined",Sony Yay! (1080p)
-https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
 #EXTINF:-1 tvg-id="Starnet.in" tvg-logo="https://i.imgur.com/J3jB7Kr.png" group-title="General",Starnet (480p)
 https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
 #EXTINF:-1 tvg-id="Swantham.in" tvg-logo="https://i.imgur.com/ye6v4GP.png" group-title="Entertainment",Swantham (720p)
@@ -139,11 +137,11 @@ https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
 https://5a1178b42cc03.streamlock.net/8222/8222/playlist.m3u8
 #EXTINF:-1 tvg-id="Vision.in" tvg-logo="https://i.imgur.com/YozqNL3.jpg" group-title="General",Vision (1080p)
 http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8
+#EXTINF:-1 tvg-id="VismayaNews.in" tvg-logo="https://i.imgur.com/5Ctyl5J.png" group-title="News",Vision (1080p)
+https://ythls.armelin.one/channel/UCoOQDJS5K6v3g__qPcullxg.m3u8
 #EXTINF:-1 tvg-id="WeOneKerala.in" tvg-logo="https://i.imgur.com/iZufxya.jpg" group-title="General",We One Kerala (720p) [Geo-blocked]
 http://kl.logicwebs.in:1935/sreemedia/sreemedia/playlist.m3u8
 #EXTINF:-1 tvg-id="YoganadamNews.in" tvg-logo="https://i.imgur.com/y3UoKhx.png" group-title="News",Yoganadam News (720p)
 https://yoganadam.cinesoftcdn.com/yoganadam/live/index.m3u8
 #EXTINF:-1 tvg-id="ZeeKeralam.in" tvg-logo="https://i.imgur.com/NileYZz.png" group-title="Undefined",Zee Keralam (576p)
 https://cflive-esports-hindi.zee5.com/out/v1/c2a01fab468b452d9af1a1aa66644d9d/Zee_Keralam_ME_SD/index.m3u8
-#EXTINF:-1 tvg-id="ZeeNewsMalayalam.in" tvg-logo="https://i.imgur.com/MePj7ET.png" group-title="News",Zee News Malayalam (720p)
-https://d1vd9xhq6jlm48.cloudfront.net/out/v1/71fcc57c8fe74c5b938451bc2435a93e/index_4.m3u8
