@@ -42,6 +42,8 @@ http://217.182.77.27/live/alcarriatv-livestream.m3u8
 https://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="AMC.es",AMC (1080p) [Geo-blocked]
 https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:87_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="AQNHQV.es",Aquí no hay quien viva(1080p)
+https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8
 #EXTINF:-1 tvg-id="ArabiTV.es",Arabí TV (1080p)
 https://streamtv2.elitecomunicacion.cloud:3956/live/arabitvlive.m3u8
 #EXTINF:-1 tvg-id="AragonTV.es",Aragón TV (720p) [Not 24/7]
@@ -303,6 +305,8 @@ https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e417
 https://vcnkrolustv.teleosmedia.com/linear/krolustv/krolustv/playlist.m3u8
 #EXTINF:-1 tvg-id="La1.es",La 1 (720p)
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
+#EXTINF:-1 tvg-id="La1op2.es",La 1 (720p)
+https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
 #EXTINF:-1 tvg-id="La1Canarias.es",La 1 Canarias (720p) [Not 24/7]
 https://rtvelivestream-clnx.rtve.es/rtvesec/can/la1_can_main_720.m3u8
 #EXTINF:-1 tvg-id="La1Catalunya.es",La 1 Catalunya (720p)
